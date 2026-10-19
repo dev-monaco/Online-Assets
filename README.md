@@ -12,3 +12,6 @@ This repository stores online asset collections.
     - `README.md`
     - `promotion-stories/`
       - `visa-plus/`
+        - `visa-plus-1.png`
+        - `visa-plus-2.png`
+        - `visa-plus-3.png`
